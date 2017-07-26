@@ -1,0 +1,35 @@
+stockIntent what is P S E G stock worth
+stockIntent what is our stock price
+stockIntent give stock
+CafIntent where is the cafeteria
+CafIntent where can i eat in the building
+CafIntent where the cafeteria is
+FactsIntent what is P S E G
+FactsIntent P S E G
+ITInfoIntent I T department
+ITInfoIntent what is I T in P S E G
+ITInfoIntent P S E G I T department
+WheretoEatIntent where can i get food in newark
+WheretoEatIntent what is the best food in newark
+WheretoEatIntent i dont want to eat cafeteria food today
+beforeYouDigIntent i want to dig
+beforeYouDigIntent digging
+gasLeakIntent i smell gas
+gasLeakIntent report a gas leak
+gasLeakIntent something smells funny
+downedWireIntent there is a pole down
+downedWireIntent report a fallen wire
+powerOutageIntent my lights are off
+powerOutageIntent report an outage
+locationsIntent is newark the only P S E G office
+locationsIntent P S E G locations
+ceoIntent who is the C E O
+ceoIntent ralph
+ceoIntent izzo
+cioIntent who is the C I O
+historyIntent when was P S E G founded
+historyIntent P S E G history
+GetNewSavingTipIntent a tip
+GetNewSavingTipIntent a saving tip
+GetNewSavingTipIntent tell me a tip
+GetNewSavingTipIntent give me a tip to save money
