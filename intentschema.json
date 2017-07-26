@@ -1,0 +1,55 @@
+{
+  "intents": [
+    {
+      "intent": "stockIntent"
+    },
+    {
+      "intent": "CafIntent"
+    },
+    {
+      "intent": "FactsIntent"
+    },
+    {
+      "intent": "ITInfoIntent"
+    },
+    {
+      "intent": "WheretoEatIntent"
+    },
+    {
+      "intent": "beforeYouDigIntent"
+    },
+    {
+      "intent": "gasLeakIntent"
+    },
+    {
+      "intent": "downedWireIntent"
+    },
+    {
+      "intent": "powerOutageIntent"
+    },
+    {
+      "intent": "locationsIntent"
+    },
+    {
+      "intent": "ceoIntent"
+    },
+    {
+      "intent": "cioIntent"
+    },
+    {
+      "intent": "historyIntent"
+    },
+    {
+      "intent": "GetNewSavingTipIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
